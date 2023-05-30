@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/fmihajlo/Downloads/Galaxy_Android-armhf_U3V_32bits-64bits_1.2.2112.9201/sample/GxViewer/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v21/values-watch-v21.xml",
+            "map": [
+                {
+                    "source": "/Users/fmihajlo/.gradle/caches/transforms-2/files-2.1/8f4b7ca2bae2afe820e06df077d8d5c8/appcompat-1.4.0/res/values-watch-v21/values-watch-v21.xml",
+                    "from": {
+                        "startLines": "2,6,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,271,499",
+                        "endLines": "5,9,13",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "266,494,724"
+                    }
+                }
+            ]
+        }
+    ]
+}

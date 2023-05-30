@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "/Users/fmihajlo/Downloads/Galaxy_Android-armhf_U3V_32bits-64bits_1.2.2112.9201/sample/GxViewer/app/build/intermediates/res/merged/debug/drawable_ic_camera.xml.flat",
+        "source": "/Users/fmihajlo/Downloads/Galaxy_Android-armhf_U3V_32bits-64bits_1.2.2112.9201/sample/GxViewer/app/src/main/res/drawable/ic_camera.xml"
+    },
+    {
+        "merged": "/Users/fmihajlo/Downloads/Galaxy_Android-armhf_U3V_32bits-64bits_1.2.2112.9201/sample/GxViewer/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/fmihajlo/Downloads/Galaxy_Android-armhf_U3V_32bits-64bits_1.2.2112.9201/sample/GxViewer/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/fmihajlo/Downloads/Galaxy_Android-armhf_U3V_32bits-64bits_1.2.2112.9201/sample/GxViewer/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/fmihajlo/Downloads/Galaxy_Android-armhf_U3V_32bits-64bits_1.2.2112.9201/sample/GxViewer/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/fmihajlo/Downloads/Galaxy_Android-armhf_U3V_32bits-64bits_1.2.2112.9201/sample/GxViewer/app/build/intermediates/res/merged/debug/layout_fragment_trigger_mode.xml.flat",
+        "source": "/Users/fmihajlo/Downloads/Galaxy_Android-armhf_U3V_32bits-64bits_1.2.2112.9201/sample/GxViewer/app/src/main/res/layout/fragment_trigger_mode.xml"
+    },
+    {
+        "merged": "/Users/fmihajlo/Downloads/Galaxy_Android-armhf_U3V_32bits-64bits_1.2.2112.9201/sample/GxViewer/app/build/intermediates/res/merged/debug/layout_setting_title_bar.xml.flat",
+        "source": "/Users/fmihajlo/Downloads/Galaxy_Android-armhf_U3V_32bits-64bits_1.2.2112.9201/sample/GxViewer/app/src/main/res/layout/setting_title_bar.xml"
+    },
+    {
+        "merged": "/Users/fmihajlo/Downloads/Galaxy_Android-armhf_U3V_32bits-64bits_1.2.2112.9201/sample/GxViewer/app/build/intermediates/res/merged/debug/layout_fragment_cam_params.xml.flat",
+        "source": "/Users/fmihajlo/Downloads/Galaxy_Android-armhf_U3V_32bits-64bits_1.2.2112.9201/sample/GxViewer/app/src/main/res/layout/fragment_cam_params.xml"
+    },
+    {
+        "merged": "/Users/fmihajlo/Downloads/Galaxy_Android-armhf_U3V_32bits-64bits_1.2.2112.9201/sample/GxViewer/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/fmihajlo/Downloads/Galaxy_Android-armhf_U3V_32bits-64bits_1.2.2112.9201/sample/GxViewer/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/fmihajlo/Downloads/Galaxy_Android-armhf_U3V_32bits-64bits_1.2.2112.9201/sample/GxViewer/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/fmihajlo/Downloads/Galaxy_Android-armhf_U3V_32bits-64bits_1.2.2112.9201/sample/GxViewer/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/fmihajlo/Downloads/Galaxy_Android-armhf_U3V_32bits-64bits_1.2.2112.9201/sample/GxViewer/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/fmihajlo/Downloads/Galaxy_Android-armhf_U3V_32bits-64bits_1.2.2112.9201/sample/GxViewer/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/fmihajlo/Downloads/Galaxy_Android-armhf_U3V_32bits-64bits_1.2.2112.9201/sample/GxViewer/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/fmihajlo/Downloads/Galaxy_Android-armhf_U3V_32bits-64bits_1.2.2112.9201/sample/GxViewer/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/fmihajlo/Downloads/Galaxy_Android-armhf_U3V_32bits-64bits_1.2.2112.9201/sample/GxViewer/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/fmihajlo/Downloads/Galaxy_Android-armhf_U3V_32bits-64bits_1.2.2112.9201/sample/GxViewer/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/fmihajlo/Downloads/Galaxy_Android-armhf_U3V_32bits-64bits_1.2.2112.9201/sample/GxViewer/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/fmihajlo/Downloads/Galaxy_Android-armhf_U3V_32bits-64bits_1.2.2112.9201/sample/GxViewer/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/fmihajlo/Downloads/Galaxy_Android-armhf_U3V_32bits-64bits_1.2.2112.9201/sample/GxViewer/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/fmihajlo/Downloads/Galaxy_Android-armhf_U3V_32bits-64bits_1.2.2112.9201/sample/GxViewer/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/fmihajlo/Downloads/Galaxy_Android-armhf_U3V_32bits-64bits_1.2.2112.9201/sample/GxViewer/app/build/intermediates/res/merged/debug/layout_fragment_exposure_gain.xml.flat",
+        "source": "/Users/fmihajlo/Downloads/Galaxy_Android-armhf_U3V_32bits-64bits_1.2.2112.9201/sample/GxViewer/app/src/main/res/layout/fragment_exposure_gain.xml"
+    },
+    {
+        "merged": "/Users/fmihajlo/Downloads/Galaxy_Android-armhf_U3V_32bits-64bits_1.2.2112.9201/sample/GxViewer/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/fmihajlo/Downloads/Galaxy_Android-armhf_U3V_32bits-64bits_1.2.2112.9201/sample/GxViewer/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/fmihajlo/Downloads/Galaxy_Android-armhf_U3V_32bits-64bits_1.2.2112.9201/sample/GxViewer/app/build/intermediates/res/merged/debug/xml_usb_filter.xml.flat",
+        "source": "/Users/fmihajlo/Downloads/Galaxy_Android-armhf_U3V_32bits-64bits_1.2.2112.9201/sample/GxViewer/app/src/main/res/xml/usb_filter.xml"
+    },
+    {
+        "merged": "/Users/fmihajlo/Downloads/Galaxy_Android-armhf_U3V_32bits-64bits_1.2.2112.9201/sample/GxViewer/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/fmihajlo/Downloads/Galaxy_Android-armhf_U3V_32bits-64bits_1.2.2112.9201/sample/GxViewer/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/fmihajlo/Downloads/Galaxy_Android-armhf_U3V_32bits-64bits_1.2.2112.9201/sample/GxViewer/app/build/intermediates/res/merged/debug/layout_fragment_image_processing.xml.flat",
+        "source": "/Users/fmihajlo/Downloads/Galaxy_Android-armhf_U3V_32bits-64bits_1.2.2112.9201/sample/GxViewer/app/src/main/res/layout/fragment_image_processing.xml"
+    },
+    {
+        "merged": "/Users/fmihajlo/Downloads/Galaxy_Android-armhf_U3V_32bits-64bits_1.2.2112.9201/sample/GxViewer/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/fmihajlo/Downloads/Galaxy_Android-armhf_U3V_32bits-64bits_1.2.2112.9201/sample/GxViewer/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/fmihajlo/Downloads/Galaxy_Android-armhf_U3V_32bits-64bits_1.2.2112.9201/sample/GxViewer/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/fmihajlo/Downloads/Galaxy_Android-armhf_U3V_32bits-64bits_1.2.2112.9201/sample/GxViewer/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/fmihajlo/Downloads/Galaxy_Android-armhf_U3V_32bits-64bits_1.2.2112.9201/sample/GxViewer/app/build/intermediates/res/merged/debug/layout_fragment_white_balance.xml.flat",
+        "source": "/Users/fmihajlo/Downloads/Galaxy_Android-armhf_U3V_32bits-64bits_1.2.2112.9201/sample/GxViewer/app/src/main/res/layout/fragment_white_balance.xml"
+    },
+    {
+        "merged": "/Users/fmihajlo/Downloads/Galaxy_Android-armhf_U3V_32bits-64bits_1.2.2112.9201/sample/GxViewer/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/fmihajlo/Downloads/Galaxy_Android-armhf_U3V_32bits-64bits_1.2.2112.9201/sample/GxViewer/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/fmihajlo/Downloads/Galaxy_Android-armhf_U3V_32bits-64bits_1.2.2112.9201/sample/GxViewer/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/fmihajlo/Downloads/Galaxy_Android-armhf_U3V_32bits-64bits_1.2.2112.9201/sample/GxViewer/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/fmihajlo/Downloads/Galaxy_Android-armhf_U3V_32bits-64bits_1.2.2112.9201/sample/GxViewer/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/fmihajlo/Downloads/Galaxy_Android-armhf_U3V_32bits-64bits_1.2.2112.9201/sample/GxViewer/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/fmihajlo/Downloads/Galaxy_Android-armhf_U3V_32bits-64bits_1.2.2112.9201/sample/GxViewer/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/fmihajlo/Downloads/Galaxy_Android-armhf_U3V_32bits-64bits_1.2.2112.9201/sample/GxViewer/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/fmihajlo/Downloads/Galaxy_Android-armhf_U3V_32bits-64bits_1.2.2112.9201/sample/GxViewer/app/build/intermediates/res/merged/debug/menu_setting_menu.xml.flat",
+        "source": "/Users/fmihajlo/Downloads/Galaxy_Android-armhf_U3V_32bits-64bits_1.2.2112.9201/sample/GxViewer/app/src/main/res/menu/setting_menu.xml"
+    },
+    {
+        "merged": "/Users/fmihajlo/Downloads/Galaxy_Android-armhf_U3V_32bits-64bits_1.2.2112.9201/sample/GxViewer/app/build/intermediates/res/merged/debug/layout_fragment_about_info.xml.flat",
+        "source": "/Users/fmihajlo/Downloads/Galaxy_Android-armhf_U3V_32bits-64bits_1.2.2112.9201/sample/GxViewer/app/src/main/res/layout/fragment_about_info.xml"
+    },
+    {
+        "merged": "/Users/fmihajlo/Downloads/Galaxy_Android-armhf_U3V_32bits-64bits_1.2.2112.9201/sample/GxViewer/app/build/intermediates/res/merged/debug/layout_fragment_setting_list.xml.flat",
+        "source": "/Users/fmihajlo/Downloads/Galaxy_Android-armhf_U3V_32bits-64bits_1.2.2112.9201/sample/GxViewer/app/src/main/res/layout/fragment_setting_list.xml"
+    },
+    {
+        "merged": "/Users/fmihajlo/Downloads/Galaxy_Android-armhf_U3V_32bits-64bits_1.2.2112.9201/sample/GxViewer/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/fmihajlo/Downloads/Galaxy_Android-armhf_U3V_32bits-64bits_1.2.2112.9201/sample/GxViewer/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/fmihajlo/Downloads/Galaxy_Android-armhf_U3V_32bits-64bits_1.2.2112.9201/sample/GxViewer/app/build/intermediates/res/merged/debug/drawable_ic_chevron_left_black_24dp.xml.flat",
+        "source": "/Users/fmihajlo/Downloads/Galaxy_Android-armhf_U3V_32bits-64bits_1.2.2112.9201/sample/GxViewer/app/src/main/res/drawable/ic_chevron_left_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/fmihajlo/Downloads/Galaxy_Android-armhf_U3V_32bits-64bits_1.2.2112.9201/sample/GxViewer/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/fmihajlo/Downloads/Galaxy_Android-armhf_U3V_32bits-64bits_1.2.2112.9201/sample/GxViewer/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/fmihajlo/Downloads/Galaxy_Android-armhf_U3V_32bits-64bits_1.2.2112.9201/sample/GxViewer/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/fmihajlo/Downloads/Galaxy_Android-armhf_U3V_32bits-64bits_1.2.2112.9201/sample/GxViewer/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    }
+]
